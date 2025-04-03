@@ -14,3 +14,4 @@ exports.getEnergyAlert = (req, res) => {
     res.json(energyData[id]);
 };
 
+

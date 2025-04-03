@@ -8,3 +8,5 @@ const EnergyUsageSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("EnergyUsage", EnergyUsageSchema);
+
+
